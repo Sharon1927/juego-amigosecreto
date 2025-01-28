@@ -33,6 +33,10 @@ Esta función es utilizada para actualizar la lista de amigos en la interfaz HTM
 Y esta ultima función permite seleccionar de manera aleatoria uno de los nombres de la lista. Dentro de sus tareas esta en primer lugar identificar para validar que no este vacía la lista. Luego se genera un índice aleatorio. Despues se utiliza el índice aleatorio para acceder al nombre correspondiente en el arreglo. Por ultimo, se muestra el resultado en este proceso en la página.
 
 
+## Nota
+
+Pueden guiarse con los comentarios en el app.js para conocer la razon y la utilidad de cada código empleado.
+
 
 
  
